@@ -121,6 +121,7 @@ p {
 
 .realisation {
     height: auto;
+    width: 60%;
     aspect-ratio: 1/1;
     position: relative;
 }
@@ -351,5 +352,13 @@ width: 40%;
 
    .ngap20{
        gap: 20px;
+   }
+
+   .realisation{
+     width: 70%;
+   }
+
+   .position {
+     margin-left: 60px;
    }
 }
